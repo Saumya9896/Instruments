@@ -1,0 +1,169 @@
+body{
+      background-color: #a3f7bf;
+      text-align: center;
+      font-family: cursive;
+   }
+
+   h1{
+      float: bottom;
+   	  background-color: #000000;
+      color: #ffffff;
+      padding-top: 100px;
+      padding-bottom: 100px;
+      min-height: 100px;
+      border-bottom: #e8491d 8px solid;
+      padding: 10px;
+      text-shadow: 3px 0 #357376;
+      font-size: 50px;
+      font-family: cursive;
+      
+      
+      
+      
+   }
+
+ 
+   
+   h2{
+      padding: 20px;
+      text-shadow: 3px 0 #2d132c;
+      background-color: #004445  ;
+     
+      color: white;
+      position: sticky;
+      top: 0;
+
+
+   }
+
+   .piano{
+        
+        margin-top: 100px;
+        padding: 27px;
+    	border-radius: 5px;
+    	
+    	background-color: #6ba8a9; //
+    	
+    	border:1px solid #357376;
+    	font-size: 50px;
+   }
+  
+   .guitar{
+          margin-top: 100px;
+        padding: 27px;
+    	border-radius: 5px;
+    	
+    	background-color: #6ba8a9; //
+    	
+    	border:1px solid #357376;
+    	font-size: 50px;
+
+   }
+
+   .drum{
+
+   	     margin-top: 100px;
+        padding: 27px;
+    	border-radius: 5px;
+    	
+    	background-color: #6ba8a9; //
+    	
+    	border:1px solid #357376;
+    	font-size: 50px;
+  
+    	
+
+   }
+
+ .piano:hover{
+
+   	      padding: 25px;
+    	border-radius: 5px;
+    	margin:10px;
+    	background-color: yellow; //
+    	margin: 10px;
+    	border:1px solid #357376;
+    	font-size: 50px;	
+
+   }
+
+   .guitar:hover{
+
+   	      padding: 25px;
+    	border-radius: 5px;
+    	margin:10px;
+    	background-color: yellow; //
+    	margin: 10px;
+    	border:1px solid #357376;
+    	font-size: 50px;
+  
+    	
+
+   }
+
+   .drum:hover{
+
+   	      padding: 25px;
+    	border-radius: 5px;
+    	margin:10px;
+    	background-color: yellow; //
+    	margin: 10px;
+    	border:1px solid #357376;
+    	font-size: 50px;
+  
+    	
+
+   }
+   
+
+
+   
+
+   .keyboard{
+
+   	 background-image: url(piano/keyboard.jpg); 
+   	min-height: 500px;
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+   	
+}
+   	  
+
+
+   
+
+   .strum{
+   	background-image: url(guitar/strum.jpg); 
+    min-height: 500px; 
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+
+   .bass{
+   	background-image: url(drum/bass.jpg); 
+    min-height: 500px; 
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+  
+  hr{
+   line-height: 2px;
+  }
+   
+   footer{
+
+   	padding: 10px;
+  margin-top: 10px;
+  color:#ffffff;
+  background-color: #e8491d;
+  text-align: center;
+
+   }
